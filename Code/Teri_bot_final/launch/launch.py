@@ -84,7 +84,7 @@ def generate_launch_description():
         arguments=[
             "-name", "robot1",  # The name of the robot in the Gazebo simulation
             "-file", path_to_urdf,  # Path to the URDF file that defines the robot
-            "-x", "3.8", "-y", "-3.8", "-z", "1.05",  # Initial position of the robot in the Gazebo world (x, y, z)
+            "-x", "0", "-y", "0", "-z", "1.05",  # Initial position of the robot in the Gazebo world (x, y, z)
             "-P", "-1.5708",  # Rotate the robot 90 degrees around the Z-axis
             "-Y", "3.1416"
         ],
