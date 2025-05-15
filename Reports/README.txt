@@ -1,1 +1,1 @@
-This folder contains detailed technical report of the robot
+This folder contains detailed technical report and exclusive summary of the robot
